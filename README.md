@@ -15,6 +15,10 @@ The workflow includes:
 - Discount vs. profit analysis
 - Interactive dashboard development using Power BI
 
+## 📊 Power BI Dashboard
+
+![Sales & Profit Analytics Dashboard](dashboard.png)
+
 ## 🛠️ Technologies Used
 
 - Python
