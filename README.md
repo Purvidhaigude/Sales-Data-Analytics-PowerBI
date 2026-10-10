@@ -17,7 +17,7 @@ The workflow includes:
 
 ## 📊 Power BI Dashboard
 
-![Sales & Profit Analytics Dashboard](dashboard.png.png)
+![Sales & Profit Analytics Dashboard](dashboard.png)
 
 ## 🛠️ Technologies Used
 
